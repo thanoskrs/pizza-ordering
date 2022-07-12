@@ -1,0 +1,13 @@
+#define T_ORDERLOW 1
+#define T_ORDERHIGH 5
+#define N_ORDERLOW 1
+#define N_ORDERHIGH 5
+#define T_PAYMENTLOW 1
+#define T_PAYMENTHIGH 2
+#define C_PIZZA 10
+#define P_FAIL 5
+#define T_PREP 1
+#define T_BAKE 10
+#define T_PACK 2
+#define T_DELLOW 5
+#define T_DELHIGH 15
